@@ -1,4 +1,12 @@
-### Hi there 👋
+![alt text](https://github.com/Jouby/Jouby/blob/main/img/soon.jpg?raw=true)
+
+- 🔭 I’m currently working on my next mobile game : https://amatterofchoice.app/
+- 🌱 I’m currently learning Flutter and Haxe
+
+
+![Jouby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jouby&hide=stars&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jouby&layout=compact&theme=tokyonight)
 
 <!--
 **Jouby/Jouby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
