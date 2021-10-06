@@ -3,7 +3,7 @@
 Flutter Developper as [Freelance](https://jouby.github.io/)
 
 - 🔭 I’m currently working on my next mobile game : https://amatterofchoice.app/
-- 🌱 I’m currently learning Flutter and Haxe
+- 🌱 I’m currently learning C# Unity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jouby&layout=compact&theme=tokyonight)
 
