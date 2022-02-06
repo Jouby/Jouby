@@ -4,8 +4,12 @@ Flutter Developper as [Freelance](https://jouby.github.io/)
 
 - 🔭 I’m currently working on my next mobile game : https://amatterofchoice.app/
 - 🌱 I’m currently learning C# Unity
+- 🦾 I always improve my Flutter skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jouby&layout=compact&theme=tokyonight)
+<p align="center">
+<img width="40%" src="https://stackoverflow-card.vercel.app/?userID=7761484&theme=dracula" />  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouby&layout=compact&theme=tokyonight" />  
+  </p>
 
 <!--
 **Jouby/Jouby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
