@@ -1,18 +1,18 @@
-![alt text](https://github.com/Jouby/Jouby/blob/main/img/soon.jpg?raw=true)
+<!-- ![alt text](https://github.com/Jouby/Jouby/blob/main/img/soon.jpg?raw=true) -->
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<!-- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) -->
 
 Flutter Developper as [Freelance](https://jouby.github.io/)
 
 - 🔭 I’m currently working on my next mobile game : https://amatterofchoice.app/
-- 🌱 I’m currently learning C# Unity
+<!-- - 🌱 I’m currently learning C# Unity -->
 - 🦾 I always improve my Flutter skills
 
-<p align="center">
-<img width="40%" src="https://stackoverflow-card.vercel.app/?userID=7761484&theme=dracula" />  
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouby&layout=compact&theme=tokyonight" />  
+<p>
+<img width="50%" src="https://stackoverflow-card.vercel.app/?userID=7761484&theme=dracula" />  
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouby&layout=compact&theme=tokyonight" /> -->  
   </p>
 
 <!--
