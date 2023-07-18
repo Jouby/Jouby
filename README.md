@@ -11,7 +11,7 @@ Flutter Developper as [Freelance](https://jouby.github.io/)
 - 🦾 I always improve my Flutter skills
 
 <p>
-<img width="50%" src="https://stackoverflow-card.vercel.app/?userID=7761484&theme=dracula" />  
+<a href="https://stackoverflow.com/users/7761484/jouby" target="blank"><img width="50%" src="https://stackoverflow-card.vercel.app/?userID=7761484&theme=dracula" /> </a> 
 <!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouby&layout=compact&theme=tokyonight" /> -->  
   </p>
 
