@@ -15,7 +15,7 @@
 </p>
 <h2></h2>
 
-🕹️ My next mobile game is under development, you can download an early version on store.
+🕹️ My next mobile game is under development, you can download an early version from the store.
 <br></br>
  <a href="https://amatterofchoice.app/"> <img  src="https://media.licdn.com/dms/image/D4E2DAQEdsgfgxkmLdA/profile-treasury-image-shrink_800_800/0/1695108984267?e=1695978000&v=beta&t=NXBhq8Frj38Usl2C7LOXFMqY5YLx6OML0Xgfzf7hCo4" /></a>
 
