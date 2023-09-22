@@ -1,19 +1,26 @@
 <!-- ![alt text](https://github.com/Jouby/Jouby/blob/main/img/soon.jpg?raw=true) -->
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge)
+
 <!-- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) -->
 
-Flutter Developper as [Freelance](https://jouby.github.io/)
+ <h1>📱 Flutter Developper as Freelance</h1>
+ 
+ ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge)
 
-- 🔭 I’m currently working on my next mobile game : https://amatterofchoice.app/
-<!-- - 🌱 I’m currently learning C# Unity -->
-- 🦾 I always improve my Flutter skills
+ 📫 You can send me a message using the contact section of my website : https://jouby.github.io/#contact
+ <br></br>
+ <p>
+  <a href="https://stackoverflow.com/users/7761484/jouby" target="blank"><img width="50%" src="https://stackoverflow-card.vercel.app/?userID=7761484&theme=dracula" /> </a>
+</p>
+<h2></h2>
 
-<p>
-<a href="https://stackoverflow.com/users/7761484/jouby" target="blank"><img width="50%" src="https://stackoverflow-card.vercel.app/?userID=7761484&theme=dracula" /> </a> 
-<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouby&layout=compact&theme=tokyonight" /> -->  
-  </p>
+🕹️ My next mobile game is under development, you can download an early version on store.
+<br></br>
+ <a href="https://amatterofchoice.app/"> <img  src="https://media.licdn.com/dms/image/D4E2DAQEdsgfgxkmLdA/profile-treasury-image-shrink_800_800/0/1695108984267?e=1695978000&v=beta&t=NXBhq8Frj38Usl2C7LOXFMqY5YLx6OML0Xgfzf7hCo4" /></a>
+
+
+
 
 <!--
 **Jouby/Jouby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
