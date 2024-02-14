@@ -17,7 +17,8 @@
 
 🕹️ My next mobile game is under development, you can download an early version from the store.
 <br></br>
- <a href="https://amatterofchoice.app/"> <img  src="https://media.licdn.com/dms/image/D4E2DAQEdsgfgxkmLdA/profile-treasury-image-shrink_800_800/0/1695108984267?e=1695978000&v=beta&t=NXBhq8Frj38Usl2C7LOXFMqY5YLx6OML0Xgfzf7hCo4" /></a>
+<a target="_blank" href="https://apps.apple.com/fr/app/a-matter-of-choice/id1616303519"><img id="apple-store" src="https://amatterofchoice.app/images/apple-store-en.png" height="54"></a>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=the_dead_masked_company.a_matter_of_choice"><img id="play-store" src="https://amatterofchoice.app/images/play-store-en.png" height="54"></a>
 
 
 
