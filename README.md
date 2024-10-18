@@ -15,10 +15,10 @@
 </p>
 <h2></h2>
 
-🕹️ My next mobile game is under development, you can download an early version from the store.
-<br></br>
-<a target="_blank" href="https://apps.apple.com/fr/app/a-matter-of-choice/id1616303519"><img id="apple-store" src="https://amatterofchoice.app/images/apple-store-en.png" height="54"></a>
-<a target="_blank" href="https://play.google.com/store/apps/details?id=the_dead_masked_company.a_matter_of_choice"><img id="play-store" src="https://amatterofchoice.app/images/play-store-en.png" height="54"></a>
+<img src="https://cdn.discordapp.com/attachments/1291702225428807704/1292138484944867427/pres.png?ex=67131ffd&is=6711ce7d&hm=a39ac33760df41290f9c13f16641b13b32ca3c071dd87a4d2228362f8ae4192a&" />
+<h3>Join us on Discord</h3>
+<a target="_blank" href="https://discord.gg/fkJhs5TySt"><img id="discord" src="https://cdn.worldvectorlogo.com/logos/discord-logo-1.svg" height="54"></a>
+
 
 
 
