@@ -17,7 +17,7 @@
 <img src="https://cdn.discordapp.com/attachments/1291702225428807704/1292138484944867427/pres.png?ex=67131ffd&is=6711ce7d&hm=a39ac33760df41290f9c13f16641b13b32ca3c071dd87a4d2228362f8ae4192a&" />
 <h3>Join us on Discord</h3><a target="_blank" href="https://discord.gg/fkJhs5TySt"><img id="discord" src="https://cdn.worldvectorlogo.com/logos/discord-logo-1.svg" height="54"></a>
 
-<h3>Contact</h3> <a href="https://jouby.github.io/#contact"><img src="https://jouby.github.io/images/header_bg.jpg" width=30%"/></a>
+<h3>My website 🇫🇷</h3> <a href="https://jouby.github.io/"><img src="https://jouby.github.io/images/header_bg.jpg" width=30%"/></a>
 
 
 
